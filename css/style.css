@@ -187,18 +187,3 @@ color: #ffffff;
 .button:hover{
     cursor: pointer
 }
-
-/*참고용
-#content .icon{margin:0 auto;}
-
-#content .icon a{ width:30px;height:30px;
-
-        background:#000 url('../img/icon.png') no-repeat; opacity:30%;z-index: 5}
-
-#content .icon a:first-child{
-
-        background-position: 5px center;}
-
-#content .icon a:last-child{
-
-        background-position: -27px center;}*/
